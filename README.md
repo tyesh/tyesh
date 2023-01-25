@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyesh&label=Profile%20views&color=0e75b6&style=flat" alt="tyesh" /> </p>
 
-- 🔭 I’m currently working on **Lincoln Import ERP system**
+- 🔭 I’m currently working on **Bancard**
 
-- 🌱 I’m currently learning **Machine Learning, python, Tensorflow.js**
+- 🌱 I’m currently learning **Machine Learning, Ruby, Tensorflow.js**
 
 - 👨‍💻 All of my projects are available at [https://www.carlosportafolio.com](https://www.carlosportafolio.com)
 
