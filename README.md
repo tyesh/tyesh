@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyesh&label=Profile%20views&color=0e75b6&style=flat" alt="tyesh" /> </p>
 
-- 🔭 I’m currently working on **Bancard**
+- 🔭 I’m currently working on **Bancard S.A.**
 
 - 🌱 I’m currently learning **Machine Learning, Ruby, Tensorflow.js**
 
